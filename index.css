@@ -1,0 +1,22 @@
+.header{
+    color: blue;
+   display: inline-block;
+   background-color: rgb(218, 23, 23);
+   padding: 20px;
+   margin: 50px;
+   text-align: center;
+}
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+
+}
+body{
+    background-color: grey  ;
+    
+}
+name{
+    
+}
